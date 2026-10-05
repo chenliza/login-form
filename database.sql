@@ -1,5 +1,5 @@
--- បង្កើត Database និង Table
-CREATE TABLE users (
+-- បង្កើត​ Database និង Table
+CREATE TABLE USERS(
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     email VARCHAR(150) NOT NULL UNIQUE,
