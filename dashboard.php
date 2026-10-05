@@ -1,4 +1,4 @@
-//បង្កើត Database និង Table
+//ទំព័រដែល User ចូលបានក្រោយ Login
 
 <?php
 
