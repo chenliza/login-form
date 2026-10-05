@@ -1,3 +1,5 @@
+//ភ្ជាប់ PHP ទៅ MySQL Database
+
 <?php
 
 $host = "localhost";

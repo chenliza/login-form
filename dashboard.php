@@ -1,3 +1,5 @@
+//បង្កើត Database និង Table
+
 <?php
 
 session_start();

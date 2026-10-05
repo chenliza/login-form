@@ -1,3 +1,4 @@
+//JavaScript សម្រាប់ interaction/validation
 const loginForm = document.getElementById("loginForm");
 
 const emailInput = document.getElementById("email");

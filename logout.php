@@ -1,3 +1,4 @@
+//Logout និងបញ្ចប់ Session
 <?php
 
 session_start();
